@@ -109,9 +109,17 @@ En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro
 
 **1. Inicio de Sesión:** Se cambio la opción de inicio de sesión, donde el usuario tiene dos opciones: Poder ingresar con su DNI y una contraseña alfanumérica o con Face ID. Esto brinda accesibilidad rápida pues anteriormente se ingresaba con el número de cuenta y seguridad pues al contar con Face ID brinda confianza al usuario.
 
-![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/CJM.png?raw=true)
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Inicio%20de%20Sesion.png?raw=true)
 
 **2. Primera Vista:** Se eliminó la tarjeta pues no cumplia ninguna función, permaneció el saldo y se añadió la visualización de los ahorros programados con el avance de cada uno de ellos.
+
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Primera%20Pantalla.png?raw=true)
+
+**3. Mis Gastos:** El usuario podrá crear categorías de gastos para controlar sus egresos, puede incluir el monto máximo de esa categoría para que la aplicación le indique cuando sobrepase lo estimado. En caso eso suceda, aparecerá una cara triste y al hacer click, el detalle del exceso.
+
+
+
+
 
 ## Preámbulo
 
