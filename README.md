@@ -39,6 +39,14 @@ El Product Manager nos compartió sus impresiones sobre cómo han estado llevand
 
 ## 4. Problemas identificados tanto a nivel de negocio como a nivel de usuario
 
+1. Entrevistas a profundidad
+
+
+
+Decidimos realizar pruebas con usuarios del prototipo recibido para poder reconocer los principales fuerte 
+
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/Imagenes/Primer%20Testeo.png?raw=true)
+
 
 ## Preámbulo
 
