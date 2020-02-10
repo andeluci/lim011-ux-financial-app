@@ -105,6 +105,11 @@ En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro
 
 ![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/CJM.png?raw=true)
 
+## 4. Recomendaciones de próximos pasos para el banco con respecto al app
+
+
+
+
 
 
 
