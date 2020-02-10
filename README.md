@@ -147,9 +147,9 @@ Muestra: 5 usuarios de entre 25 a 30 años.
 
 * Next Steps
 
-- Opción de cancelar ahorro
-- Agregar gráficas en "Mis Gastos" para mayor control.
-- Investigación sobre posible implementación de Código QR para transferencias.
+1. Opción de cancelar ahorro
+2. Agregar gráficas en "Mis Gastos" para mayor control.
+3. Investigación sobre posible implementación de Código QR para transferencias.
 
 ## 7. Links
 
