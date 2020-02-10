@@ -117,8 +117,10 @@ En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro
 
 **3. Mis Gastos:** El usuario podrá crear categorías de gastos para controlar sus egresos, puede incluir el monto máximo de esa categoría para que la aplicación le indique cuando sobrepase lo estimado. En caso eso suceda, aparecerá una cara triste y al hacer click, el detalle del exceso.
 
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Mis%20Gastos.png?raw=true)
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Mis%20Gastos%202.png?raw=true)
 
-
+**4. Ahorros:** El usuario podrá crear categorías de ahorros para diferentes motivos que necesite. Podrá medir el avance y se debitará de manera manual o automática, según como el prefiera. En caso tenga más cuentas de ahorros, podrá elegir de donde desea que se debite.
 
 
 ## Preámbulo
