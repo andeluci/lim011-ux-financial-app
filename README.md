@@ -107,11 +107,11 @@ En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro
 
 ## 4. Recomendaciones de próximos pasos para el banco con respecto al app
 
+**1. Inicio de Sesión:** Se cambio la opción de inicio de sesión, donde el usuario tiene dos opciones: Poder ingresar con su DNI y una contraseña alfanumérica o con Face ID. Esto brinda accesibilidad rápida pues anteriormente se ingresaba con el número de cuenta y seguridad pues al contar con Face ID brinda confianza al usuario.
 
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/CJM.png?raw=true)
 
-
-
-
+**2. Inicio de Sesión:** Se cambio la opción de inicio de sesión, donde el usuario tiene dos opciones: Poder ingresar con su DNI y una contraseña alfanumérica o con Face ID. Esto brinda accesibilidad rápida pues anteriormente se ingresaba con el número de cuenta y seguridad pues al contar con Face ID brinda confianza al usuario.
 
 ## Preámbulo
 
