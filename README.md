@@ -1,5 +1,45 @@
 # Aplicación financiera
 
+## Índice
+
+[1. Introducción](#1-introducción)
+ 
+[2. Acerca de la empresa](#2-acerca-de-la-empresa)
+ 
+[3. Objetivos iniciales del proyecto](#3-objetivos-iniciales-del-proyecto)
+ 
+[4. Problemas identificados tanto a nivel de negocio como a nivel de usuario](#4-problemas-identificados-tanto-a-nivel-de-negocio-como-a-nivel-de-usuario)
+ 
+[5. Recomendaciones de próximos pasos para el banco con respecto al app](#5-Recomendaciones-de-próximos-pasos-para-el-banco-con-respecto-al-app)
+ 
+[6. Links](#6-Links)
+
+***
+
+## 1. Introducción
+
+El banco más importante del país, Banco Pichincha, está planeando lanzar un banco 100% digital bajo otro nombre: "Banqui". Han venido piloteando un app con un número pequeño de usuarios siendo los resultados de este piloto mixtos. Nos presentaron los resultados de este piloto que nos sirvió como data/información para la investigación y posterior rediseño de la aplicación. 
+
+## 2. Acerca de la empresa
+
+El Product Manager nos compartió sus impresiones sobre cómo han estado llevando este producto y también nos brindó diferentes recursos para poder hacer un análisis del mismo. Algunos de sus comentarios fueron:
+
+>Los usuarios que anteriormente han sido clientes de algún banco, nos comparan con las aplicaciones de esos bancos, parece que hay cosas que extrañan.
+
+>La aplicación que estamos probando es para iOS, sin embargo, para hacer un lanzamiento nacional necesitamos crear un app para Android.
+
+>Nos falta acercarnos un poco más a los usuarios jóvenes, 100% digitales, los que usan Netflix, Uber, Spotify, Instagram, entre otros.
+
+## 3. Objetivos iniciales del proyecto
+
+- Utilizar los recursos brindados por la empresa para identificar los problemas que tiene la aplicación al momento de interactuar con los usuarios.
+- Investigar a profundida el mercado peruano con respecto a las decisiones financieras de los más jóvenes del pais y su fuerza económica. 
+- Rediseñar el producto ya existente, priorizando y solucionando los problemas identificados en el proceso de investigación. 
+- Ampliar el mercado de la aplicación para un público más joven proponiendo mejoras y herramientas totalmente innovadoras.
+
+## 4. Problemas identificados tanto a nivel de negocio como a nivel de usuario
+
+
 ## Preámbulo
 
 El banco más importante del país, siguiendo las tendencias de otros países, está
