@@ -41,7 +41,7 @@ El Product Manager nos compartió sus impresiones sobre cómo han estado llevand
 
 1. Entrevistas a profundidad
 
-![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/Imagenes/Affinity%20Map.png?raw=true)
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Affinity%20Map.png?raw=true)
 
 - **Ahorro:** Ahorran al menos el 20% de sus sueldos para algún determinado fin. Es importante este método ya que los ayuda a planificar a futuro.
 - **Seguridad:** Es importante que le brinde diferentes métodos de seguridad para el ingreso de la app (Huella, Contraseña, Face ID).
@@ -76,7 +76,7 @@ https://laprensa.peru.com/actualidad/noticia-como-se-comportan-jovenes-peruanos-
 
 Decidimos realizar pruebas con usuarios del prototipo recibido para poder reconocer los principales puntos de dolor según prioridad.
 
-![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/Imagenes/Primer%20Testeo.png?raw=true)
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Primer%20Testeo.png?raw=true)
 
 Muestra: 5 pruebas con usuarios y 30 pruebas digitales.
 
@@ -89,7 +89,12 @@ Muestra: 5 pruebas con usuarios y 30 pruebas digitales.
 
 En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro nuevo.
 
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Mision%202.png?raw=true)
+
 * 23 Usuarios se perdieron en la primera pantalla, sin saber donde hacer click.
+
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Mapa%20de%20Calor%20Mision%202.jpg?raw=true)
+
 
 
 
