@@ -85,7 +85,7 @@ Muestra: 5 pruebas con usuarios y 30 pruebas digitales.
 - 38 a 45 : 1 persona
 - 45 a mas : 4 personas
 
-- Observación
+Observación
 
 En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro nuevo.
 
@@ -96,7 +96,7 @@ En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro
 ![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Mapa%20de%20Calor%20Mision%202.jpg?raw=true)
 
 
-
+4. User Persona 
 
 
 
