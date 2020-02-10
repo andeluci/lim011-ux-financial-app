@@ -122,6 +122,12 @@ En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro
 
 **4. Ahorros:** El usuario podrá crear categorías de ahorros para diferentes motivos que necesite. Podrá medir el avance y se debitará de manera manual o automática, según como el prefiera. En caso tenga más cuentas de ahorros, podrá elegir de donde desea que se debite.
 
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/Ahorros.png?raw=true)
+
+**4. Operaciones:** Se agregó opciones de favoritos para cuentas de transferencias y pagos de servicios para hacer más sencillo el llenado de datos, además se agregó el token digital automático (sin SMS) para seguridad y comodidad del usuario. El token digital funciona por dispositivo y se activa en la agencia apenas apertura su cuenta de ahorros.
+
+
+
 
 ## Preámbulo
 
