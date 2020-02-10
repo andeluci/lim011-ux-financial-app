@@ -140,6 +140,7 @@ Para medir el avance exitoso del MVP: El usuario debe haber programado al menos 
 * Resultados de Testeos de Usuarios (2º Prototipo)
 
 **- Ahorros:** Los usuarios no entendieron cómo programar un ahorro ya que es una funcionalidad totalmente nueva para ellos. Se tuvo que poner mensajes de apoyo.
+
 **- Mis Gastos:** Los usuarios creyeron que esta función debitaba parte de su saldo disponible y no sabían que podían categorizar sus gatos. Se tuvo que poner mensajes de apoyo.
 
 Muestra: 5 usuarios de entre 25 a 30 años.
