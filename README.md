@@ -43,33 +43,32 @@ El Product Manager nos compartió sus impresiones sobre cómo han estado llevand
 
 ![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/Imagenes/Affinity%20Map.png?raw=true)
 
-- Ahorro: Ahorran al menos el 20% de sus sueldos para algún determinado fin. Es importante este método ya que los ayuda a planificar a futuro.
-- Seguridad: Es importante que le brinde diferentes métodos de seguridad para el ingreso de la app (Huella, Contraseña, Face ID).
-- Token Digital: El token les brinda seguridad para realizar sus transacciones pero les gustaría que se implemente otro método que no sea SMS.
-- Control: Normalmente ingresan a su app bancaria para visualizar su saldo disponible y así llevar un control de sus egresos.
+- **Ahorro:** Ahorran al menos el 20% de sus sueldos para algún determinado fin. Es importante este método ya que los ayuda a planificar a futuro.
+- **Seguridad:** Es importante que le brinde diferentes métodos de seguridad para el ingreso de la app (Huella, Contraseña, Face ID).
+- **Token Digital:** El token les brinda seguridad para realizar sus transacciones pero les gustaría que se implemente otro método que no sea SMS.
+- **Control:** Normalmente ingresan a su app bancaria para visualizar su saldo disponible y así llevar un control de sus egresos.
 
 Muestra: 5 usuarios de entre 25 a 35 años 
 
 2. Investigación de Mercado
 
-> Según Reuters, el 81% de los jóvenes latinoamericanos ha usado, al menos una vez. una aplicación bancaria. Destacando los peruanos por su mayor frecuencia en estas apps.
+- Según Reuters, el 81% de los jóvenes latinoamericanos ha usado, al menos una vez. una aplicación bancaria. Destacando los peruanos por su mayor frecuencia en estas apps.
 
-> La investigacion (2019) se realizo a jovenes de entre 18 a 35 años, y el 64% de los peruanos prefiere hacer sus operaciones finacieras desde sus smartphones.
+- La investigacion (2019) se realizo a jovenes de entre 18 a 35 años, y el 64% de los peruanos prefiere hacer sus operaciones finacieras desde sus smartphones.
 
-> Motivos:
+**Motivos:**
 - Seguridad (82%)
 - Verificacion de Saldo (72%)
 - Practicidad
 - Administracion
 
-> Otros:
+**Otros:**
 - El 77% prefiere dinero en efectivo, mientras que el 32% utiliza tarjeta.
 - La expectativa: facilitacion de transacciones sin necesidad de uso de tarjeta.
 
-> Fuente: 
+**Fuente:**
 
 https://rpp.pe/economia/economia/jovenes-peruanos-usan-mas-apps-bancarias-que-el-resto-de-latinoamerica-noticia-1199802?ref=rpp
-
 https://laprensa.peru.com/actualidad/noticia-como-se-comportan-jovenes-peruanos-ante-uso-aplicaciones-bancarias-88749
 
 
@@ -85,6 +84,16 @@ Muestra: 5 pruebas con usuarios y 30 pruebas digitales.
 - 26 a 35 : 16 personas
 - 38 a 45 : 1 persona
 - 45 a mas : 4 personas
+
+- Observación
+
+En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro nuevo.
+
+* 23 Usuarios se perdieron en la primera pantalla, sin saber donde hacer click.
+
+
+
+
 
 
 
