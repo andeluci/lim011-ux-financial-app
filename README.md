@@ -98,7 +98,12 @@ En la misión #2, los usuarios tenían que iniciar sesión y programar un ahorro
 
 4. User Persona 
 
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/User%20Persona.png?raw=true)
 
+
+5. Customer Journey Map
+
+![](https://github.com/andeluci/lim011-ux-financial-app/blob/master/IMG/CJM.png?raw=true)
 
 
 
